@@ -14,6 +14,8 @@ NODES=(
     "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/kijai/ComfyUI-KJNodes.git"
     "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git"
+    "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet"
+    "https://github.com/Fannovel16/comfyui_controlnet_aux"
 )
 
 CHECKPOINT_MODELS=(
