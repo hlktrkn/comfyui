@@ -16,6 +16,7 @@ NODES=(
     "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
     "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet"
     "https://github.com/Fannovel16/comfyui_controlnet_aux"
+    "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
 )
 
 CHECKPOINT_MODELS=(
